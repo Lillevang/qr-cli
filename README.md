@@ -33,9 +33,9 @@ The tool relies on the following Python libraries:
 
 4. Make the script executable (optional):
 
-  ```bash
-  chmod +x qr-reader.py
-  ```
+    ```bash
+    chmod +x qr-reader.py
+    ```
 
 ## Usage
 
